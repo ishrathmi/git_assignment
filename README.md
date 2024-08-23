@@ -36,7 +36,9 @@
 
     > g. What is the `main` branch?
     the default or master branch of a repo. It is also the branch that was first created in the repo
-    
+
 
     > h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
+
+    no, keep all changes in a new branch named appropriately so we have a comprehensive record of all the changes. Collate all the changes in the new branch, review them, and then push on to the main branch. Pushing directly to the main branch should be avoided as it can cause conflicts and bugs, especially when collaborating.Keep the main branch clean in case we need to revert to an earlier commit. 
     
