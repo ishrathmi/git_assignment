@@ -24,13 +24,19 @@
     3. click on 'settings'
     4. click on 'collaborators' on the left menu
     5. click on 'add people' under manage access
+    6. add people by username or email
 
 
     > e. What is the difference between `git` and `GitHub`?
+    git a free open source version control tool used by devs to compare previous versions of code and keep a running tab of the full history of code development, and gitHub is an online cloud service that can run git online. GitHub makes it easier for teams to collaborate using git.
 
     > f. What does `git diff` do?
+    git diff lists all the changes between our current working directory and the staging area. It can be used to analyse the changes in a repo.
+
 
     > g. What is the `main` branch?
+    the default or master branch of a repo. It is also the branch that was first created in the repo
+    
 
     > h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
     
